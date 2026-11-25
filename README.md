@@ -5,14 +5,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1A1426,45:6B3F8F,100:C460A6&text=Artur%20Marcolino&fontColor=E8DFF5&fontSize=56&fontAlignY=36&desc=estat%C3%ADstica%20%C2%B7%20people%20analytics%20%C2%B7%20dados&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Artur Marcolino" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=C460A6&center=true&vCenter=true&width=560&lines=Ol%C3%A1!+Eu+sou+o+Brabas+%F0%9F%91%8B;Estat%C3%ADstica+no+IME-USP;People+Analytics+na+XP+Inc.;S%C3%A9ries+temporais+%2B+dados+de+alta+dimens%C3%A3o;Transformando+dado+bagun%C3%A7ado+em+decis%C3%A3o" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=artur-marcolino&label=visitas&color=6B3F8F&labelColor=2B2145&style=for-the-badge" alt="visitas" />
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1A1426,50:C460A6,100:1A1426" width="100%" />
@@ -23,10 +15,8 @@
 brabas <- list(
   curso      = "Bacharelado em Estatística — IME-USP (último ano)",
   trabalho   = "Analista de People Analytics @ XP Inc.",
-  consultoria = "Centro de Estatística Aplicada (CEA/IME-USP)",
   pesquisa   = c("séries temporais", "dados de alta frequência", "alta dimensão"),
-  ferramentas = c("modelos mistos", "TRI / psicometria", "inferência bayesiana"),
-  nas_horas_vagas = c("modding de BG3", "desenho", "prever partidas de LoL")
+  nas_horas_vagas = c("desenho", "prever partidas de LoL")
 )
 ```
 
