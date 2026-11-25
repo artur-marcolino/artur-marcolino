@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1A1426,45:6B3F8F,100:C460A6&text=Artur%20Marcolino&fontColor=E8DFF5&fontSize=56&fontAlignY=36&desc=estat%C3%ADstica%20%C2%B7%20people%20analytics%20%C2%B7%20dados&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Artur Marcolino" />
+<img src="assets/banner.png" width="100%" alt="Artur Marcolino — estatística · dados" />
 
 </div>
 
